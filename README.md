@@ -3,6 +3,8 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jleomorris)](https://github.com/jleomorris)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jleomorris&layout=compact)](https://github.com/jleomorris)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jleomorris&theme=merko)](https://git.io/streak-stats)
+
 <!--
 **jleomorris/jleomorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
