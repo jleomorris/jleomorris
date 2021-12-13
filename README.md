@@ -5,6 +5,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jleomorris)](https://git.io/streak-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jleomorris&label=Profile%20views&color=orange&style=flat" alt="maxmiller413" /> </p>
+
 <!--
 **jleomorris/jleomorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
