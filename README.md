@@ -5,6 +5,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jleomorris)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jleomorris)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jleomorris&label=Profile%20views&color=orange&style=flat" alt="maxmiller413" /> </p>
 
 <!--
